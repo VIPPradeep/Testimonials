@@ -48,6 +48,6 @@ function UpdateTestimonial(){
     if(indexval=== testimonial.length){
         indexval = 0;
     }
-    setTimeout(UpdateTestimonial , 4000)
+    setTimeout(UpdateTestimonial , 3000)
 }
 UpdateTestimonial();
